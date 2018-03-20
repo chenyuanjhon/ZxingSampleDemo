@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing/zxing.iml" filepath="$PROJECT_DIR$/zxing/zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxingLibrary/zxingLibrary.iml" filepath="$PROJECT_DIR$/zxingLibrary/zxingLibrary.iml" />
+      <module fileurl="file://D:\EWork\AAS\DTest\Zxing\zxingSample-master\zxingSample.iml" filepath="D:\EWork\AAS\DTest\Zxing\zxingSample-master\zxingSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxingSampleDemo.iml" filepath="$PROJECT_DIR$/zxingSampleDemo.iml" />
+    </modules>
+  </component>
+</project>
